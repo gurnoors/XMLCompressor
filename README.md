@@ -13,6 +13,7 @@ some other streaming parser, which does not load the whole file in memory at onc
 
 <h3>OPTIONS</h3>
      The following options are available:
+     
      -z, --gzip        Compress XML tags with attribute test="1"
      -u, --gunzip      De-compress XML tags with attribute test="1"
      
