@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bookstore>
+   <book id="bk111" test="1">H4sIAAAAAAAAAE2OvW6DQBCEez/FdmmwwbYSKdHpJP9IaYxcQEEXXe7WZiW4Q3uL8/qBAJG3m51vRrOCv1Omlzqwvr4cmdAnUFKr0vm5mhkhaVDnRZVf9h9wgFNoO8YafaQHwmdPDlU6QUvkjp5Rj2AvyCqd9OJ2TBb1/m3z/qrSSfxb/XdDsf5yRlDvsixbb3frbDtgz8ZCO4yWqRMKXpc1Qk6WQww3gWktdIYjMlAEGx7I6ID8HHYohpoEfkhqMCLoxxqQAEMSztd8QIftN2MxJlAVlxI6DoOI5O/JXFIcKjDeQRsYNyp93jMSv9Wq6rBmAQAA</book>
+   <book id="bk112">
+      <author>Galos, Mike</author>
+      <title>Visual Studio 7: A Comprehensive Guide</title>
+      <genre>Computer</genre>
+      <price>49.95</price>
+      <size> 22 </size>
+      <publish_date>2001-04-16</publish_date>
+      <last_description test="1">H4sIAAAAAAAAADWNsQrCQBBEe79iwDKHrbWmFoSA/ZJbk8XL7nG3iX6+GpLp3sCbuUlfrNrT8ZA6U0LncxTDGVLBn5yscIQoImcfwwFrktlLdAA5Rnvv6pWq9GGntmkC2mMAacSluzegwpsv6jwU8nXaDYTeplx4ZK2y8O9s4WR5YvXNYF2kmP6b0xdNM56itAAAAA==</last_description>
+   </book>
+</bookstore>
