@@ -25,9 +25,9 @@ some other streaming parser, which does not load the whole file in memory at onc
                        
 <h3>Sample Output:</h3>
 <pre>
-gurnoorsinghbhatia$ java -jar f5gzip.jar /<somePath>/books.xml --gzip
+gurnoorsinghbhatia$ java -jar f5gzip.jar /&ltsomePath&gt/books.xml --gzip
 Compressing...
-Output file path: /<anotherPath>/code/books_compressed.xml
+Output file path: /&ltanotherPath&gt/code/books_compressed.xml
 
 Posting the XML
 200 OK
